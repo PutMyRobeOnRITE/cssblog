@@ -1,6 +1,7 @@
 body{
     font-family: "Raleway", sans-serif;
-    width: 600px;
+    max-width: 600px;
+    width:80%;
     margin:auto;
     border: solid 7px gray;
     padding: 15px;
